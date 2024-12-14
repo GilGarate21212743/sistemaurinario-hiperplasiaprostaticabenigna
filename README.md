@@ -3,9 +3,9 @@
 # Sistema Urinario Masculino
 
 ## Estudiantes
-Delgado Soto José Sebastian
-Escalante Roldan Diana Ivana
-Gil Gárate Carlos Andrés 
+Delgado Soto José Sebastian;
+Escalante Roldan Diana Ivana;
+Gil Gárate Carlos Andrés. 
 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: Correos: {l20212281; l21212151; l21212743}@tectijuana.edu.mx
 
