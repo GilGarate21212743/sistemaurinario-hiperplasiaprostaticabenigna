@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CITATION
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: José Sebastian
+    family-names: Delgado Soto
+    email: l20212281@tectijuana.edu.mx
+    affiliation: 'Instituto Tecnológico de Tijuana '
+  - given-names: 'Escalante Esquivel '
+    family-names: Diana Ivana
+    email: l21212743@tectijuana.edu.mx
+    affiliation: Instituto Tecnológico de Tijuana
+  - given-names: Carlos Andrés
+    family-names: Gil Gárate
+    affiliation: Instituto Tecnológico de Tijuana
+    email: l21212151@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/andreesgill/sistemaurinario-hiperplasiaprostaticabenigna
