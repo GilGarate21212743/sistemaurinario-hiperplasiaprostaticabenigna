@@ -7,7 +7,8 @@ Delgado Soto José Sebastian;
 Escalante Roldan Diana Ivana;
 Gil Gárate Carlos Andrés. 
 
-Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: Correos: {l20212281; l21212151; l21212743}@tectijuana.edu.mx
+Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. 
+Correos: {l20212281; l21212151; l21212743}@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
@@ -28,5 +29,5 @@ El sistema urinario masculino puede representarse de manera simplificada mediant
 
 [2] S. Zheng et al., "Fluid mechanical modeling of the upper urinary tract", WIREs Mech. Dis., vol. 13, núm. 6, 2021.
 
-[3] A. S. Paya, D. R. Fernández, D. Gil, J. M. Garcia Chamizo, y F. M. Perez, "Mathematical modelling of the lower urinary tract", Comput. Methods Programs Biomed., vol. 109, núm. 3, pp. 323--338, 2013.
+[3] A. S. Paya, D. R. Fernández, D. Gil, J. M. Garcia Chamizo, y F. M. Perez, "Mathematical modelling of the lower urinary tract", Comput. Methods Programs Biomed., vol. 109, núm. 3, pp. 323-338, 2013.
 
