@@ -4,7 +4,7 @@
 
 ## Estudiantes
 Delgado Soto José Sebastian;
-Escalante Roldan Diana Ivana;
+Escalante Esquivel Diana Ivana;
 Gil Gárate Carlos Andrés. 
 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. 
